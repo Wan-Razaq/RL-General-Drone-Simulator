@@ -1,4 +1,7 @@
 # General Drone Simulator
+
+Full report of this project can be found here: [
+](https://drive.google.com/file/d/1ZAOWNUUHqaKlPDRsxmJOMwDgFmrTn_A6/view?usp=drive_link)
 ## Installation
 This project uses !(Poetry)[https://python-poetry.org/] for dependency management. Install poetry and run `poetry install` to install all dependencies. 
 If you don't want to use poetry you can install the dependencies manually using pip.
